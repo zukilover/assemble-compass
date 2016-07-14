@@ -1,0 +1,10 @@
+{
+  "name": "assemble-compass",
+  "version": "0.1.0",
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap-sass": "^3.3.6"
+  },
+  "private": true,
+  "devDependencies": {}
+}
